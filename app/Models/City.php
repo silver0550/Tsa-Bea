@@ -60,6 +60,4 @@ class City
     {
         $this->y = $y;
     }
-
-
 }

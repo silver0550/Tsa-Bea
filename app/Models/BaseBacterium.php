@@ -20,8 +20,6 @@ abstract class BaseBacterium
         return $this->rotateRouteToStart($this->route);
     }
 
-
-
     public function setRoute(Collection $route): void
     {
         $this->route = $route;
